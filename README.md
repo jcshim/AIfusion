@@ -48,10 +48,6 @@ https://cphoto.asiae.co.kr/listimglink/6/2018040811565342437_1523156211.jpg
 ### 내 주변에 문제 해결에 관심을 가지자.
 ### 일등이 되려면: [동영상][googlelink]
 [googlelink]: https://youtu.be/CFAl5xAiIlQ "Go 동영상"
-
-Link: [Google][googlelink]
-
-[googlelink]: https://google.com "Go google"
 ***
 
 ## IT인물들(참고)
