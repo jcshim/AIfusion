@@ -4,6 +4,7 @@
 ## CES2022 CES-https://www.ces.tech/
 ### 삼성 / 현대 / LG 
 ### 휴머노이드(인간형) 로봇-보스톤다이나믹스
+https://youtu.be/_OgEysv3xxg
 ### 플라스크 이준호 ces2022
 
 ## 지구라는 별나라?
