@@ -14,6 +14,8 @@
 #### https://youtu.be/v6-heLIg85o
 #### https://youtu.be/E_MHPwmqXZo
 ### 우리나라가 1등하는 것
+https://cafe.naver.com/jcshim/3769
+
 #### 반도체 점유율
 https://biz.newdaily.co.kr/site/data/html/2022/05/27/2022052700088.html
 https://www.mk.co.kr/news/business/view/2022/04/362158/
@@ -30,7 +32,8 @@ https://cphoto.asiae.co.kr/listimglink/6/2018040811565342437_1523156211.jpg
 ### 가장 인기있는 프로그래밍 언어? https://www.tiobe.com/tiobe-index/
 ### 가장 많이 쓰는 프로그래밍 언어?
 #### https://insights.stackoverflow.com/survey/2021#most-popular-technologies-language
-### 프로그래밍이란? p5.js 
+### 프로그래밍이란? p5.js
+
 ### 구글코랩
 ### 소프트웨어 사관학교 정글
 
