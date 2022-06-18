@@ -46,8 +46,8 @@ https://cphoto.asiae.co.kr/listimglink/6/2018040811565342437_1523156211.jpg
 ### 코딩과 인공 지능에 관심을 가지자.
 ### 좋아하고 잘하고, 세상에 도움되는 일 찾기
 ### 내 주변에 문제 해결에 관심을 가지자.
-### 일등이 되려면: [동영상][https://youtu.be/CFAl5xAiIlQ]
-
+### 일등이 되려면: [동영상][youtueblink]
+[youtubelink]: https://youtu.be/CFAl5xAiIlQ "Go youtubelink"
 ***
 
 ## IT인물들(참고)
