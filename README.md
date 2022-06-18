@@ -15,7 +15,9 @@
 #### https://youtu.be/E_MHPwmqXZo
 ### 우리나라가 1등하는 것
 #### 반도체 점유율
+https://biz.newdaily.co.kr/site/data/html/2022/05/27/2022052700088.html
 https://www.mk.co.kr/news/business/view/2022/04/362158/
+https://cphoto.asiae.co.kr/listimglink/6/2018040811565342437_1523156211.jpg
 
 ## 4차 산업과 4차 산업혁명?
 ### 도화선?
