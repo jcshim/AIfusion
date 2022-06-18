@@ -6,7 +6,8 @@
 ### 휴머노이드(인간형) 로봇-보스톤다이나믹스
 https://youtu.be/_OgEysv3xxg
 ### 플라스크 이준호 ces2022
-
+https://youtu.be/Cri64vgBifM
+https://youtu.be/gJp2i_I36CU
 ## 지구라는 별나라?
 ### 나에게 가장 소중한 것은? 나의 가치는?
 
