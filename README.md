@@ -10,9 +10,11 @@
 ### 나에게 가장 소중한 것은? 나의 가치는?
 
 ## 자랑스런 우리나라 1962년~
-### Darpa Kaist
+### Darpa Kaist (휴보) 
+#### https://youtu.be/v6-heLIg85o
+#### https://youtu.be/E_MHPwmqXZo
 ### 우리나라가 1등하는 것
-### 반도체 점유율
+#### 반도체 점유율
 https://www.mk.co.kr/news/business/view/2022/04/362158/
 
 ## 4차 산업과 4차 산업혁명?
