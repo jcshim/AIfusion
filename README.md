@@ -1,22 +1,30 @@
-# AIfusion
+# AIfusion 취업관련 특별강의
+## 국립안동대학교 컴퓨터공학과 심재창 교수
 
 # 나의 꿈과 미래?
 # 4차 산업혁명이란?
 # 코딩으로 부자 되는 법
 * IT관련 신기술 소개
 * 코딩방법, 인공지능 실습
-* 배우면 좋을 컴퓨터 언어 소개
-# 간단 성격 퀴즈: 원을 세개 만들고, 선을 하나 그으시오!!!
+* 내가 배우면 좋을 컴퓨터 언어 소개
+
+## 옆의 친구와 축복의 인사 나누기
+## 간단 성격 퀴즈: 원을 세개 만들고, 선을 하나 그으시오!!!
+## 스마트폰 퀴즈
 
 # CES2022 CES-https://www.ces.tech/
-### 삼성 / 현대 / LG 
-### 휴머노이드(인간형) 로봇-보스톤다이나믹스
-https://youtu.be/_OgEysv3xxg
-### 플라스크 이준호 ces2022
+## 삼성 / 현대 / LG 
+## 휴머노이드(인간형) 로봇-보스톤다이나믹스 https://youtu.be/_OgEysv3xxg
+## 플라스크 이준호 ces2022
 https://youtu.be/Cri64vgBifM
 https://youtu.be/gJp2i_I36CU
-# 지구라는 별나라?
-## 나에게 가장 소중한 것은? 나의 가치는?
+
+# 지구라는 별나라? 
+## 광활한세상 https://youtu.be/-jI3Ok3oge4 
+* 2:30 태양계 90억Km
+* 3:30 우리은하 100,000LY
+* Universe>Multiverse>Metaverse>Zenoverse>Hyperverse>Omniverse
+# 나에게 가장 소중한 것은? 나의 가치는?
 
 # 자랑스런 우리나라 1962년~
 ## Darpa Kaist (휴보) 
