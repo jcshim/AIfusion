@@ -52,6 +52,7 @@ https://cphoto.asiae.co.kr/listimglink/6/2018040811565342437_1523156211.jpg
 
 ## IT인물들(참고)
 ### 일론 머스크, 펠컨 헤비: https://youtu.be/sX1Y2JMK6g8
-### 손정의(마사요미)-야후, 알리바바, 쿠팡
+### 손정의(마사요미)-소프트뱅크창업, 야후투자, 알리바바대주주, 
+#### 쿠팡투자 https://namu.wiki/w/%EC%86%90%20%EB%A7%88%EC%82%AC%EC%9A%94%EC%8B%9C
 ### 카카오+다음 (김범수)
 ### 김범수: https://namu.wiki/w/%EA%B9%80%EB%B2%94%EC%88%98(%EA%B8%B0%EC%97%85%EC%9D%B8)
